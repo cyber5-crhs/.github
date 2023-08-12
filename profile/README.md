@@ -1,8 +1,8 @@
 <p align="center">
   <img
-       src="https://github.com/cyber5-crhs/.github/assets/24477470/c8de691e-66c2-4eb1-a89b-ff6eb845f63b"
+       src="https://cyber5.club/assets/banner.png"
        alt="cyber5 logo"
-       width=350
+       width=550
    >
 </p>
 <h1 align="center">cyber5 @ CRHS</h1>
